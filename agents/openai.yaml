@@ -1,0 +1,4 @@
+interface:
+  display_name: "全专业图纸预审"
+  short_description: "统筹各专业内部审查、系统追踪和跨专业接口，输出可追溯证据及覆盖报告"
+  default_prompt: "使用 $multidisciplinary-drawing-review 对这套图纸开展全专业施工图会审预审，先盘点有效版本、总说明和项目标准，再按专业、系统及接口执行检查。"
