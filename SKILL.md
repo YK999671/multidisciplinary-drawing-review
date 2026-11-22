@@ -97,3 +97,7 @@ python <本skill目录>/scripts/validate_review.py <本轮review.json> --verify-
 - 复审门：受影响范围重查，关闭依据与当前有效版一致。
 
 受限时交付阶段报告，列出未完成的门和范围。未经真实项目验证时，只说流程及规则已建立，不声称全专业审查能力已实测。
+
+## 官方来源与许可
+
+[官方仓库](https://github.com/YK999671/multidisciplinary-drawing-review) · [使用与分发条款](LICENSE)

@@ -41,3 +41,7 @@ python -X utf8 scripts/test_parallel_review.py
 当前测试覆盖台账契约、证据和关闭条件、状态快照、发布保护、专业任务所有权、资源排程、隔离成果合并及过期基线拒绝。软件测试不证明工程审图结论正确。
 
 详细工作流从 [SKILL.md](SKILL.md) 开始；多智能体并行机制见 [references/parallel-agent-review.md](references/parallel-agent-review.md)。
+
+## 使用与分发许可
+
+允许免费安装、内部调整、用于收费项目及交付项目成果。免费分享修改版时须标明修改情况并保留声明。未经书面许可，不得出售本许可涵盖的 Skill 或修改版，也不得将其捆绑在付费产品中交付。 完整条款见 [LICENSE](LICENSE)。
